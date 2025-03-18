@@ -1,1 +1,17 @@
+# Ignore secrets
+.streamlit/secrets.toml
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+.venv/
+venv/
+
+# Ignore dataset files (optional)
+*.csv
+*.json
 
