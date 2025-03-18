@@ -1,0 +1,12 @@
+google-generativeai
+pandas
+numpy
+chromadb
+sentence-transformers
+streamlit 
+torch 
+transformers 
+diffusers
+accelerate 
+pillow 
+requests
