@@ -8,7 +8,7 @@ from diffusers import StableDiffusionPipeline
 import google.generativeai as genai
 
 # --- 1. Setup API Keys and Models ---
-GEMINI_API_KEY = "AIzaSyCw5aL6gtJ4W0gWEfkT7GJ05VkUwDonqJo"  # Replace with your Gemini API key
+GEMINI_API_KEY = "Api"  # Replace with your Gemini API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Load Hugging Face embedding model
