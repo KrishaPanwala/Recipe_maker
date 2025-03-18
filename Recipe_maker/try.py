@@ -8,7 +8,7 @@ from PIL import Image
 from io import BytesIO
 
 # --- 1. Setup Gemini API and ChromaDB ---
-GEMINI_API_KEY = "AIzaSyBFx-3LRQRPFE8t2dTzQe368SQEvlHcDck"  # Replace with your Gemini API key 
+GEMINI_API_KEY = "Api"  # Replace with your Gemini API key 
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Initialize embedding model
